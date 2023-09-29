@@ -1,0 +1,20 @@
+{
+    "name": "hp/signapp",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Signapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilyben2004",
+            "email": "ilyasbennajeh@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdi-fpdf": "^2.3",
+        "setasign/fpdi": "^2.4",
+        "setasign/fpdf": "^1.8"
+        
+    }
+}
